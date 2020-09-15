@@ -1,0 +1,4 @@
+import numpy as np
+lista = [5, 10, 15, 20, 25]
+vector = np.array(lista)
+print(vector + vector)
